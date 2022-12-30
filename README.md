@@ -9,7 +9,7 @@ Upon completion of this notebook, I have cleaned the data, answered various ques
   3. How many trips did poeple in Toronto had with Bike Share Toronto in 2022 seggregated on a monthly, daily, weekly, and hourly basis?
   4. Calculated distance and average speed for each trip to plot
   5. Speed of the bike on monthly, daily, weekly, hourly basis
-  6. Popular stations in 2022 according to months.
+  6. Popular stations in 2022 according to months. (This plot is not visualized in Github as it's not allowed to post that kind of plots on the platform but you can download the notebook and visualize it.)
   
   
  ![newplot](https://user-images.githubusercontent.com/84031553/210036798-ee5b6605-ffde-47a0-8cc2-215633248a2b.png)
